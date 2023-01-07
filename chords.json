@@ -1,10 +1,6 @@
 [
     {
-        from: 'msg',
-        to: 'message for qwe'
-    },
-    {
-        from: 'qw',
-        to: 'test'
+        "from": "msg",
+        "to": "message for qwe"
     }
 ]

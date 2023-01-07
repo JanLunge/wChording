@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "command-line-args": "^5.2.1",
     "json5": "^2.2.3"
   }
 }
