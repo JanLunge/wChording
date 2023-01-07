@@ -1,0 +1,10 @@
+{
+  "name": "chording",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "json5": "^2.2.3"
+  }
+}

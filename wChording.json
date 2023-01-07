@@ -1,0 +1,75 @@
+{
+    "title": "wChording",
+    "rules": [
+        {
+            "description": "Chording rules",
+            "manipulators": [
+                {
+                    "modifiers": {
+                        "optional": [
+                            "any"
+                        ]
+                    },
+                    "simultaneous": [
+                        {
+                            "key_code": "q"
+                        },
+                        {
+                            "key_code": "w"
+                        },
+                        {
+                            "key_code": "e"
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "m"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "s"
+                        },
+                        {
+                            "key_code": "s"
+                        },
+                        {
+                            "key_code": "a"
+                        },
+                        {
+                            "key_code": "g"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "f"
+                        },
+                        {
+                            "key_code": "o"
+                        },
+                        {
+                            "key_code": "r"
+                        },
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "q"
+                        },
+                        {
+                            "key_code": "w"
+                        },
+                        {
+                            "key_code": "e"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
